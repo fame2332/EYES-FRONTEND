@@ -1,0 +1,25 @@
+// This would typically be a PNG file, but for this example, we'll create it as a component
+
+import React from 'react';
+import { View, StyleSheet } from 'react-native';
+import { Eye } from 'lucide-react-native';
+import { COLORS } from '@/constants/Colors';
+
+export const AppLogo = () => {
+  return (
+    <View style={styles.container}>
+      <Eye size={64} color={COLORS.accent} strokeWidth={2.5} />
+    </View>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    width: 120,
+    height: 120,
+    borderRadius: 60,
+    backgroundColor: 'rgba(255, 255, 255, 0.15)',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});
