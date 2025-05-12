@@ -42,23 +42,34 @@ In Total Blindness mode, users can control the app with voice commands:
 - Expo Go app on iOS or Android device
 
 ### Installation
-1. Clone the repository:
+1. Download Node.js
+    ```
+    https://nodejs.org/dist/v22.15.0/node-v22.15.0-x64.msi
+    ```
+2. Open your IDE
+   ```
+   PyCharm
+   VsCode
+   IntelliJ
+   ETC.
+   ```
+3. In terminal of the IDE Clone the repository:
    ```
    git clone https://github.com/fame2332/EYES-FRONTEND.git
    cd EYES-FRONTEND
    ```
 
-2. Install dependencies:
+3. Install dependencies:
    ```
    npm install
    ```
 
-3. Start the development server:
+4. Start the development server:
    ```
    npm run dev
    ```
 
-4. Scan the QR code with Expo Go app (Android) or Camera app (iOS)
+5. Scan the QR code with Expo Go app (Android) or Camera app (iOS)
 
 ## 💻 Development
 
