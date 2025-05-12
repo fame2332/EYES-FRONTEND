@@ -168,7 +168,3 @@ When implementing backend services, ensure:
 ## 📝 License
 
 This project is licensed under a custom MIT License with Restricted Rights. All rights to this code and software belong exclusively to BELEN, GINETE, FANDINO, and the original developer. See the [LICENSE](LICENSE) file for full details.
-
-## 📞 Support
-
-For questions or support, please open an issue on the GitHub repository or contact [rc202300000t@gmail.com](rc202300000t@gmail.com). 
