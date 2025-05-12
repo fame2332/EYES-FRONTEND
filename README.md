@@ -42,7 +42,7 @@ In Total Blindness mode, users can control the app with voice commands:
 - Expo Go app on iOS or Android device
 
 ### Installation
-1. Download Node.js
+1. Download Node.js and install the .msi
     ```
     https://nodejs.org/dist/v22.15.0/node-v22.15.0-x64.msi
     ```
